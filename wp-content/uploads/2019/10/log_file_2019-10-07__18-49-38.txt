@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: consulting were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://www.androidantenado.com/ct
+Data file = /home/u290422231/domains/androidantenado.com/public_html/ct/wp-content/plugins/lipi-framework/import/nine/demo-content-9.xml
+Widget file = /home/u290422231/domains/androidantenado.com/public_html/ct/wp-content/plugins/lipi-framework/import/nine/widgets-9.wie
+Customizer file = not defined!
+Redux files:
+_lipi_theme_options_ -> /home/u290422231/domains/androidantenado.com/public_html/ct/wp-content/plugins/lipi-framework/import/nine/redux-9.json 
+
+
+---Importing widgets---
+Sidebar : 
+
+Posts recentes - Recent Posts - Imported
+Categorias - Categories - Imported
+Arquivos - Archives - Imported
+
+Footer Box 1 : 
+
+Texto - No Title - Imported
+
+Footer Box 2 : 
+
+Texto - SERVICES - Imported
+
+Footer Box 3 : 
+
+Texto - CONTACT - Imported
+
+Footer Box 4 : 
+
+Texto - Social - Imported
+
+KB Category Sidebar : 
+
+KB Categroy - KB Category - Imported
+
+KB Single Post Sidebar : 
+
+KB Records - ONLY for KB Page - No Title - Imported
+KB Categroy - KB Category - Imported
+
+FAQ Sidebar : 
+
+FAQ Categroy - FAQ Category - Imported
+
+woocommerce-widget-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_price_filter - Filter By Price - Site does not support widget
+woocommerce_product_categories - Shop By Categories - Site does not support widget
+woocommerce_top_rated_products - Top Rated Products - Site does not support widget
+woocommerce_product_tag_cloud - Brand Most Use Tags - Site does not support widget
+
+woocommerce-widgetnav-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Woocommerce Nav Menu - No Title - Imported to Inactive
+
+bbPress : 
+
+(bbPress) Widget de login - No Title - Imported
+Texto - Forum Support Policy - Imported
+
+Header - Icon With Text : 
+
+Lipi - Icon With Text - No Title - Imported
+Lipi - Icon With Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: _lipi_theme_options_ finished successfully!
+
+---pt-ocdi/after_import---
+
